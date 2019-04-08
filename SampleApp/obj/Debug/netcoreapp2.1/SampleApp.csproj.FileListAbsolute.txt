@@ -1,0 +1,15 @@
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\SampleApp.deps.json
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\SampleApp.runtimeconfig.json
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\SampleApp.runtimeconfig.dev.json
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\SampleApp.dll
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\SampleApp.pdb
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.csproj.CoreCompileInputs.cache
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.AssemblyInfoInputs.cache
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.AssemblyInfo.cs
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.dll
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.pdb
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\Microsoft.Azure.SiteRecovery.ProcessServer.Core.dll
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\Microsoft.Azure.SiteRecovery.ProcessServer.Core.pdb
+D:\workspace\SampleApp\SampleApp\bin\Debug\netcoreapp2.1\Microsoft.Azure.SiteRecovery.ProcessServer.Core.dll.config
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.csproj.CopyComplete
+D:\workspace\SampleApp\SampleApp\obj\Debug\netcoreapp2.1\SampleApp.csprojAssemblyReference.cache
